@@ -1,2 +1,7 @@
-Print("Hello World!")
+print("Hello World!")
+print("I love Pizza")
+print("It's really good")
+
 Hello World!
+I love Pizza
+It's really good
